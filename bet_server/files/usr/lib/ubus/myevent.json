@@ -1,0 +1,8 @@
+"myevent": {
+   "type": "event",
+   "description": "My custom event",
+   "params": {
+      "message": {"type": "string", "optional": false}
+   }
+}
+
