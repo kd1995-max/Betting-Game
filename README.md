@@ -1,5 +1,5 @@
 # Betting Game
-
+ 
 Create 2 openwrt packages
 1. betclient
 2. betserver
